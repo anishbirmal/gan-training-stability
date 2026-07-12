@@ -1,0 +1,7 @@
+```text
+torch
+numpy
+matplotlib
+scipy
+jupyter
+tqdm
