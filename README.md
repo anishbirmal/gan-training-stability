@@ -28,7 +28,7 @@ components positioned uniformly around a unit circle.
 - Variance per Gaussian: 0.0025
 - Standard deviation: 0.05
 
-![Target distribution](figures/01_target_gaussian_ring.png)
+
 
 ## Evaluation
 
@@ -54,16 +54,6 @@ In these experiments:
 - Recovering all modes did not necessarily mean that two models learned the
   same sample distribution.
 
-![Vanilla GAN versus WGAN](figures/05_vanilla_vs_wgan.png)
-
-## Repository Structure
-
-```text
-notebooks/
-    01_vanilla_and_nonsaturating_gan.ipynb
-    02_vanilla_gan_vs_wgan.ipynb
-
-figures/
     Selected experiment visualizations
 
 results/
