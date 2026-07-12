@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+data/
+outputs/
+checkpoints/
+
+*.pt
+*.pth
+*.npy
+*.zip
