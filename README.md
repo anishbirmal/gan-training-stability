@@ -54,7 +54,4 @@ In these experiments:
 - Recovering all modes did not necessarily mean that two models learned the
   same sample distribution.
 
-    Selected experiment visualizations
 
-results/
-    Summarized experiment metrics
